@@ -9,8 +9,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Repositories\Implementation\" />
     <Folder Include="Services\" />
-    <Folder Include="Repositories\" />
   </ItemGroup>
 
 </Project>
